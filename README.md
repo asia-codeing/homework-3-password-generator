@@ -11,6 +11,6 @@
 ![Asking about the criteria ](.assets/images/criteria.png)
 ![Password Generated](.assets/images/pass.png)
 
-# Link to deployed application:
 
+# Link to deployed application:
 https://asia-codeing.github.io/homework-3-password-generator/
