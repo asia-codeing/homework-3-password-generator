@@ -7,9 +7,9 @@
 
 # Screenshot to deployed application:
 
-[password-generator1](.assets/images/length.png)
-[password-generator2] (.assets/images/criteria.png) 
-[password-generator3] (.assets/images/pass.png)
+[password-generator1](.assets/images/length.png) 
+(.assets/images/criteria.png) 
+(.assets/images/pass.png)
 
 # Link to deployed application:
 
