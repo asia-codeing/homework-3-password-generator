@@ -69,6 +69,8 @@ function generatePassword(lower, upper, number, symbol, length) {
 }
 
 // Generator functions
+//In the functions down below I used `String.fromCharCode` this method returns a string created from the specified sequence of UTF-16 code units.
+//I used this `(Math.floor(Math.random())` function to generate random letters and numbers.
 function getRandomLowerCase(){
   return String.fromCharCode(Math.floor(Math.random() * 26) + 97);
 }
